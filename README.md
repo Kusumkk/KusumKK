@@ -32,11 +32,10 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ### 🚀 Featured Projects
 
-**1. HireFlow – AI-Powered Job Portal**
-- Full-stack recruitment platform.
-- Candidate and recruiter authentication.
-- Job management and resume uploads.
-- Technology: MongoDB, Express.js, React.js, Node.js.
+**1. JobNest – AI-Powered Job Portal**
+- A full-stack recruitment platform designed to connect job seekers with recruiters through a seamless job application process.
+- Implemented role-based authentication for Candidates and Recruiters, job posting and management, resume PDF uploads, and application tracking.
+- Technology Stack: MongoDB, Express.js, React.js, Node.js (MERN Stack).
 
 **2. AI Bus Ticketing System**
 - AI-powered natural language bus search.
