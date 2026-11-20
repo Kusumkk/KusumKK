@@ -56,6 +56,4 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ### 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: YOUR_GITHUB_URL
-- Email: YOUR_EMAIL
+- Email: 228r1a05e8@gmail.com 
